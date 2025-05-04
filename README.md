@@ -11,8 +11,8 @@ Suricata as NSM for Openstack for log alerting
 1. Laptop or pc has at least 16gb RAM 
 2. VMware Installed
 3. ubuntu-22.04.5-desktop-amd64.iso
-4. Openstack.docx - for set up openstack
-5. Demo.docx - for set up Suricata + Demo Log Alert
+4. Openstack.pdf - for set up openstack
+5. Demo.pdf - for set up Suricata + Demo Log Alert
 
 # Reference
 1. https://www.youtube.com/watch?v=KCZ9PDoBfmo
