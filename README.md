@@ -13,5 +13,5 @@ Suricata as NSM for Openstack for log alerting
 3. ubuntu-22.04.5-desktop-amd64.iso
 
 # Reference
-https://www.youtube.com/watch?v=KCZ9PDoBfmo
-https://www.youtube.com/watch?v=a4su8OLXSvc&list=PLFj79il4Np7AeggY5Z8IQzwyUB5nrM2XW
+1. https://www.youtube.com/watch?v=KCZ9PDoBfmo
+2. https://www.youtube.com/watch?v=a4su8OLXSvc&list=PLFj79il4Np7AeggY5Z8IQzwyUB5nrM2XW
